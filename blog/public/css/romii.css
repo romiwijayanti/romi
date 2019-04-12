@@ -1,0 +1,35 @@
+html { 
+  background: url(https://tse3.mm.bing.net/th?id=OIP.kqPP2IUweBBQAqHVcD2iOwHaEK&pid=15.1&P=0&w=291&h=165.jpg) no-repeat center center fixed;  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: hidden;
+}
+https://tse1.mm.bing.net/th?id=OIP._YSyToNWUG3B_9DrYQsyVgHaFj&pid=15.1&P=0&w=219&h=165
+body{
+  padding:0;
+  margin:0;
+}
+
+h1{
+  font-family: bbeauty;
+}
+
+header{
+	font-family: bbeauty;
+	color: white;
+	text-align: left;
+}
+
+ul{
+  color: white;
+}
+.container{
+  width:400px;
+  height:400px;
+  position:absolute;
+  top:calc(60vh - 200px);
+  overflow:hidden;
+  color: white;
+}

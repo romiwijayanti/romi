@@ -1,2 +1,0 @@
-# romi
-repo belajar github
